@@ -15,7 +15,8 @@ public class Persona {
     private int dni;
     private int celular;
     private int id_persona;
-
+//prueba de agregar cambios
+    
     public Persona(String nombre, int Dni, int celular, int id_persona) {
         this.nombre= nombre;
         this.dni = Dni;
